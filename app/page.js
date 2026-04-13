@@ -7,7 +7,7 @@ export default async function Home() {
     <div className="home-wrapper">
       <header className="home-header">
         <div className="home-container">
-          <h1 className="home-name">Dennis</h1>
+          <h1 className="home-name">Dennis Han Ong</h1>
           <p className="home-tagline">Developer · Builder · Writer</p>
           <nav className="home-nav">
             <a href="mailto:dennisongwenghan@gmail.com">Contact</a>
